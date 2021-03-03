@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39716557161",
+    "project_id": "fir-auth-3c123",
+    "storage_bucket": "fir-auth-3c123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39716557161:android:7ced4b82b6514f02182df8",
+        "android_client_info": {
+          "package_name": "foddie.firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39716557161-jga3f28m5kaa00ic89369hf04fubb0g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKdiSloFX3-n3Dzy84Q99k6HeDMaAlMBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39716557161-jga3f28m5kaa00ic89369hf04fubb0g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
